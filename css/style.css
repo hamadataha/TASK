@@ -1,0 +1,26 @@
+body{
+    height: 2000px;
+}
+.hh{
+    text-align: center;
+    text-transform: capitalize;
+}
+.aud1{
+    float: left;
+    margin: 0px 10px;
+    width: 250px;
+    height: 30px;
+    break line-height: ;
+}
+.mo{
+    text-align: center;
+}
+.sa{
+    text-align: center;
+}
+.ss{
+    margin-top: 50px;
+}
+.lo{
+    text-align: center;
+}
